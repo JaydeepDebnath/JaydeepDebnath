@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaydeepDebnath
 - 👀 I’m interested in data science & AI,ML.
-- 🌱 I’m currently learning Django and Amazon AWS
+- 🌱 I’m currently learning Node.js and Amazon AWS,Express.js,react.js,etc.
 - 📫 You can contact with me using my mail id , also i'm available in Lnkedin.
 
 <!---
